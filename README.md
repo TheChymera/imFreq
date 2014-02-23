@@ -1,10 +1,13 @@
 #imFreq
 
-Python and script suite for image frequency break-down.
-A demo of the suite's functionality along with basic instructions are written up in the ```imFreq.ipynb``` file above, and can be viewed **[here](http://nbviewer.ipython.org/urls/raw2.github.com/TheChymera/imFreq/master/imFreq.ipynb?create=1)**.
-A demo of the suite's functionality along with basic instructions is written up in the ```imFreq.ipynb``` file above, and can be conveniently viewed [**here**](http://nbviewer.ipython.org/urls/raw2.github.com/TheChymera/imFreq/master/imFreq.ipynb?create=1).
+imFreq is a script suite for image frequency break-down.
+We try to provide visualization and analysis (prospectively also filtering and image reconstruction) tools for spatial frequency bands in images.
 
-DEPENDS on:
+##Demo
+
+[**This IPython notebook**](http://nbviewer.ipython.org/urls/raw2.github.com/TheChymera/imFreq/master/imFreq.ipynb?create=1) - which is also included in the repository as ```imFreq.ipynb``` - guides you through the suite's functionality and gives basic instructions.
+
+##DEPENDS on:
 
 * **numpy** - available on Gentoo as  **dev-python/numpy**
 * **skimage** - available on Gentoo as **sci-libs/scikits_image**
