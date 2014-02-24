@@ -14,7 +14,7 @@ We try to provide visualization and analysis (prospectively also filtering and i
 * **[scikit-image](http://scikit-image.org/)** - available on Gentoo as **sci-libs/scikits_image**
 * **[pandas](https://en.wikipedia.org/wiki/Pandas_(software))** - in Portage as **dev-python/pandas**
 * **[IPython](https://en.wikipedia.org/wiki/Ipython)** - (only if you want to run the IPython notebook locally) available on Gentoo as **dev-python/ipython**
-* **[chr_helpers](https://github.com/TheChymera/chr-helper)** - (only if you want to use config files) available on Gentoo from the *[chymerc overlay](https://github.com/TheChymera/chymeric)* as  **dev-python/chr-helpers**
+* **[chr-helpers](https://github.com/TheChymera/chr-helpers)** - (only if you want to use config files) available on Gentoo from the *[chymerc overlay](https://github.com/TheChymera/chymeric)* as  **dev-python/chr-helpers**
 
 Released under the GPLv3 license.
 Project led by Horea Christian (address all correspondence to: h.chr@mail.ru)
