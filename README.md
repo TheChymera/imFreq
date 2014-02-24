@@ -7,14 +7,14 @@ We try to provide visualization and analysis (prospectively also filtering and i
 
 [**This IPython notebook**](http://nbviewer.ipython.org/urls/raw2.github.com/TheChymera/imFreq/master/imFreq.ipynb?create=1) - which is also included in the repository as ```imFreq.ipynb``` - guides you through the suite's functionality and gives basic instructions.
 
-##DEPENDS on:
+##Dependencies:
 
-* **numpy** - available on Gentoo as  **dev-python/numpy**
-* **skimage** - available on Gentoo as **sci-libs/scikits_image**
-* **matplotlib** - available on Gentoo as **dev-python/matplotlib**
-* **pandas** - available on Gentoo as **dev-python/pandas**
-* **IPython** - (if you want to run the IPython notebook locally) available on Gentoo as **dev-python/ipython**
-* **chr_helpers** - (only if you want to use config files) available on Gentoo from the [Chymerc Overlay](https://github.com/TheChymera/chymeric) as  **dev-python/chr-helpers**
+* **[NumPy](https://en.wikipedia.org/wiki/Numpy)** - in [Portage](http://en.wikipedia.org/wiki/Portage_(software)) as **app-text/texlive**
+* **[matplotlib](https://en.wikipedia.org/wiki/Matplotlib)** - in Portage as **dev-python/matplotlib**
+* **[scikit-image](http://scikit-image.org/)** - available on Gentoo as **sci-libs/scikits_image**
+* **[pandas](https://en.wikipedia.org/wiki/Pandas_(software))** - in Portage as **dev-python/pandas**
+* **[IPython](https://en.wikipedia.org/wiki/Ipython)** - (only if you want to run the IPython notebook locally) available on Gentoo as **dev-python/ipython**
+* **chr_helpers** - (only if you want to use config files) available on Gentoo from the *[chymerc overlay](https://github.com/TheChymera/chymeric)* as  **dev-python/chr-helpers**
 
 Released under the GPLv3 license.
 Project led by Horea Christian (address all correspondence to: h.chr@mail.ru)
